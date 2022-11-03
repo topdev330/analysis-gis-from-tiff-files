@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "canvas": "^2.10.1",
+    "csv-writer": "^1.6.0",
+    "gdal": "^0.11.1",
+    "georaster": "^1.5.6"
+  }
+}
